@@ -8,3 +8,4 @@ function kiir(lista) {
     }
 }
 kiir(TASKALISTA);
+

@@ -41,7 +41,7 @@ export const TASKALISTA = [
     },
     {
         kep: "KEPEK/t13.jpg",
-        termek: "Backpack Sprayground SPUCCI SPLIT BACKPACK Black",
+        termek: "Sprayground SPUCCI SPLIT BACKPACK Black",
         ar: "223.500FT"
     },
 ];
